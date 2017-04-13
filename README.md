@@ -1,24 +1,8 @@
-# README
+Basic Rails Server.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+User Rails S to launch.
 
-Things you may want to cover:
+It is going to use a postgresql database, so you must have postgresql running locally I believe.
 
-* Ruby version
+I am only running it locally for now, but i will set up heroku deployment soon.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
